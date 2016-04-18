@@ -1,0 +1,28 @@
+name: jayson
+favicon: null
+layout_spectrum: 0.31939756870269775
+typography_spectrum: 0.7773519761394709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5956774277146906
+  lightness: 0.1909776518587023
+  saturation: 0.24021052359603345
+  rhythmicContrast: 0.9280902622267604
+purpose: []
